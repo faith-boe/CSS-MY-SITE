@@ -1,0 +1,22 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    color: ivory;
+    font-family: cursive;
+    border-style: none;
+    background-color: green;
+    
+}
+img {
+    margin: 10px;
+}
+hr {
+    border-style: dotted none none;
+    border-color: green;
+    border-width: 20px;
+    width: 30%;
+
+
+}
