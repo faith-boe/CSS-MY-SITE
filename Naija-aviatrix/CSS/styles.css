@@ -3,10 +3,12 @@ body {
 }
 
 h1 {
+    margin-block: 20px 20px;
     color: ivory;
     font-family: cursive;
     border-style: none;
     background-color: green;
+    
     
 }
 img {
