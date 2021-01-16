@@ -72,6 +72,18 @@ a:hover {
     bottom: 350px;
     width: 10%;
 }
+.top-plane {
+    position: absolute;
+    right: 180px;
+    top: 80px;
+    width:10%;
+}
+.bottom-plane {
+    position: absolute;
+    left: 220px;
+    bottom: 280px;
+    width:10%;
+}
 
 .skill-row {
     width: 50%;
